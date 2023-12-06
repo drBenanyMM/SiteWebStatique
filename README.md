@@ -7,4 +7,3 @@ Bienvenue sur le dépôt de mon site web statique. Ce site web a été créé à
 - **universite.html**: Page spécifique à l'université.
 - **contact.html**: Page de contact.
 - **styles.css**: Fichier de style CSS pour la mise en page et le design.
-## Navigation
